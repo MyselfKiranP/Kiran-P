@@ -26,7 +26,7 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 
 #### 🔧 Nortel Certified Support Specialist  
 
-<img width="257" height="123" alt="image" src="https://github.com/user-attachments/assets/c4af2978-594e-47ae-8421-71b89a59be03" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c4af2978-594e-47ae-8421-71b89a59be03" />
 
 ## 🚀 About Me  
 
