@@ -17,13 +17,16 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader Badge" width="100"/>
 
 #### 🧑‍💻 VMware Certified Professional – Data Center Virtualization (VCP‑DCV)  
-<img src="URL_FOR_VMWARE_BADGE" alt="VMware VCP‑DCV Badge" width="100"/>
+<img src="https://images.credly.com/images/a04c3952-ce78-42b7-9a83-32b0ea799f44/image.png" alt="VMware VCP‑DCV Badge" width="80"/>
+
 
 #### 🎯 Avaya Certified Expert – FX  
-<img src="URL_FOR_AVAYA_BADGE" alt="Avaya Certified Expert FX Badge" width="100"/>
+<img src="https://www.avaya-learning.com/lms/_assets/guides/Avaya_Digital_Badges_Banner_Reference.pdf" alt="Avaya Certified Expert FX Badge" width="80"/>
+
 
 #### 🔧 Nortel Certified Support Specialist  
-<img src="URL_FOR_NORTEL_BADGE" alt="Nortel Certified Support Specialist Badge" width="100"/>
+<img src="https://seeklogo.com/vector-logo/323111/nortel-logo-png-vector.png" alt="Nortel Certified Support Specialist Badge" width="80"/>
+
 ## 🚀 About Me  
 
 I specialize in **Enterprise Networking and Security Solutions**, **Cloud Security**, and **AI Tools** — helping organizations build secure, efficient, and cost-effective solutions in the cloud.  
