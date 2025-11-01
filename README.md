@@ -11,7 +11,7 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 
 ### 🪙 Microsoft Certified: Azure Fundamentals  
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/782a4c39-b92f-4cf4-832e-fb146761bb5f" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/03d5c980-ffc7-4695-9109-ec9d4224a06a" />
 
 ### 🤖 Google Certified: Generative AI Leader  
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader Badge" width="100"/>
