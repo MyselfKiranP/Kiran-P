@@ -15,6 +15,9 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 ### 🤖 Google Certified: Generative AI Leader  
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader Badge" width="100"/>
 
+### 🤖 Google Certified: Generative AI Leader  
+<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader Badge" width="100"/>
+
 ---
 
 ## 🚀 About Me  
