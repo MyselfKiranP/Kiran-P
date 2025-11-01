@@ -16,6 +16,17 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 ### 🤖 Google Certified: Generative AI Leader  
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader Badge" width="100"/>
 
+💠 VMware Certified Professional – Data Center Virtualization (VCP-DCV)
+<img src="https://via.placeholder.com/100x100.png?text=VCP-DCV" alt="VMware VCP-DCV Badge" width="100"/>
+🌐 Cisco Certified Network Associate (CCNA)
+
+<img src="https://clipsafari.com/download/o220776-cisco-certified-network-associate.png" alt="Cisco CCNA Badge" width="100"/> 
+clipsafari.com
+
+📞 Avaya Certified Expert
+<img src="https://via.placeholder.com/100x100.png?text=Avaya+Certified+Expert" alt="Avaya Certified Expert Badge" width="100"/>
+🧩 Nortel Certified Support Specialist
+<img src="https://via.placeholder.com/100x100.png?text=Nortel+Certified+Support+Specialist" alt="Nortel Certified Support Specialist Badge" width="100"/>
 ---
 
 ## 🚀 About Me  
