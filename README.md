@@ -7,26 +7,6 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 
 ---
 
-## 🎓 Certifications  
-
-### 🪙 Microsoft Certified: Azure Fundamentals  
-
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/03d5c980-ffc7-4695-9109-ec9d4224a06a" />
-
-### 🤖 Google Certified: Generative AI Leader  
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader Badge" width="100"/>
-
-#### 🧑‍💻 VMware Certified Professional – Data Center Virtualization (VCP‑DCV)  
-<img src="https://images.credly.com/images/a04c3952-ce78-42b7-9a83-32b0ea799f44/image.png" alt="VMware VCP‑DCV Badge" width="80"/>
-
-
-#### 🎯 Avaya Certified Expert – FX  
-
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/f03a3283-99ff-44b4-ae82-ccecb5ac0c31" />
-
-#### 🔧 Nortel Certified Support Specialist  
-
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c4af2978-594e-47ae-8421-71b89a59be03" />
 
 ## 🎓 Certifications
 
