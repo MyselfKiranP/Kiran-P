@@ -28,6 +28,26 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/c4af2978-594e-47ae-8421-71b89a59be03" />
 
+## 🎓 Certifications
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/03d5c980-ffc7-4695-9109-ec9d4224a06a" alt="Azure Fundamentals" width="75" style="margin-right:15px;"/>
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_200,q_100,w_200/v1/gcs/platform-data-goog/events/gen_ai_leader_badge_VpYjfaI.png" alt="Google Generative AI Leader" width="75" style="margin-right:15px;"/>
+  <img src="https://images.credly.com/images/a04c3952-ce78-42b7-9a83-32b0ea799f44/image.png" alt="VMware VCP-DCV" width="75" style="margin-right:15px;"/>
+  <img src="https://github.com/user-attachments/assets/f03a3283-99ff-44b4-ae82-ccecb5ac0c31" alt="Avaya Certified Expert FX" width="75" style="margin-right:15px;"/>
+  <img src="https://github.com/user-attachments/assets/c4af2978-594e-47ae-8421-71b89a59be03" alt="Nortel Certified Support Specialist" width="75"/>
+</p>
+
+<p float="left">
+  <b>Microsoft Azure Fundamentals</b>&nbsp;&nbsp;&nbsp;
+  <b>Google Generative AI Leader</b>&nbsp;&nbsp;&nbsp;
+  <b>VMware VCP-DCV</b>&nbsp;&nbsp;&nbsp;
+  <b>Avaya Certified Expert FX</b>&nbsp;&nbsp;&nbsp;
+  <b>Nortel Certified Support Specialist</b>
+</p>
+
+
+
 ## 🚀 About Me  
 
 I specialize in **Enterprise Networking and Security Solutions**, **Cloud Security**, and **AI Tools** — helping organizations build secure, efficient, and cost-effective solutions in the cloud.  
