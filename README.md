@@ -24,8 +24,8 @@ I’m constantly exploring new technologies and love sharing what I learn with t
 
 ## 💬 Let’s Connect  
 
+📫  **Email:** [aiformyselfkiran@gmail.com](mailto:aiformyselfkiran@gmail.com)  
 🌐 [LinkedIn](#)  
-📫 [Email](#)  
 
 ---
 
