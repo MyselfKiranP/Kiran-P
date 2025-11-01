@@ -9,8 +9,11 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 
 ## 🎓 Certifications  
 
-- **Microsoft Certified:** Azure Fundamentals  
+- **Microsoft Certified:** Azure Fundamentals
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6e092712-ff23-44dd-8aa9-7ef06256fb88" />
+
 - **Google Certified:** Generative AI Leader  
+![Uploading image.png…]()
 
 ---
 
