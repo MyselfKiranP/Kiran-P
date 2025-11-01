@@ -10,7 +10,8 @@ I’m passionate about cloud technologies, networking, and building secure, scal
 ## 🎓 Certifications  
 
 ### 🪙 Microsoft Certified: Azure Fundamentals  
-<img src="https://your-site.com/badges/azure-fundamentals.png" alt="Azure Fundamentals Badge" width="100"/>
+<img src="https://www.pngitem.com/middle/iwThJhw_microsoft-certified-azure-fundamentals-badge-microsoft-365-fundamentals/" alt="Azure Fundamentals Badge" width="80"/>
+
 
 
 ### 🤖 Google Certified: Generative AI Leader  
